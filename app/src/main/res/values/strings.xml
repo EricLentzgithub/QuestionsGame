@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Question Game</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="submit">Submit</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="this_will_be_the_question">This will be the question</string>
+</resources>
